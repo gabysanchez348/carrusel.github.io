@@ -94,7 +94,7 @@ translateZ(100px);
 
 #imagen1{
     background-image:
-    url(imagenes/gatito1.jpg);
+    url(img/gatito1.jpg);
     background-size: cover;
     background-position:center;
     animation-delay: -2s;
@@ -102,7 +102,7 @@ translateZ(100px);
 
 #imagen2{
     background-image:
-    url(imagenes/gatito2.jpg);
+    url(img/gatito2.jpg);
     background-size: cover;
     background-position:center;
     animation-delay: -4s;
@@ -110,7 +110,7 @@ translateZ(100px);
 
 #imagen3{
     background-image:
-    url(imagenes/gatito3.jpg);
+    url(img/gatito3.jpg);
     background-size: cover;
     background-position:center;
     animation-delay: -6s;
@@ -118,7 +118,7 @@ translateZ(100px);
 
 #imagen4{
     background-image:
-    url(imagenes/gatito4.jpg);
+    url(img/gatito4.jpg);
     background-size: cover;
     background-position:center;
     animation-delay: -8s;
@@ -126,7 +126,7 @@ translateZ(100px);
 
 #imagen5{
     background-image:
-    url(imagenes/gatito5.jpeg);
+    url(img/gatito5.jpeg);
     background-size: cover;
     background-position:center;
     animation-delay: -10s;
@@ -148,3 +148,4 @@ translateZ(100px);
     margin-top: 70px;
     background-color: #ff0000;
 }
+
